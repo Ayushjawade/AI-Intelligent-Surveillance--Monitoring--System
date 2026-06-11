@@ -1,0 +1,9 @@
+config.py
+venv/
+__pycache__/
+snapshots/
+data/*.db
+
+runs/
+data/
+yolov8n.pt
