@@ -1,34 +1,62 @@
-# AI-Based Intelligent Surveillance Monitoring System
+# 🛡️ AI-Based Intelligent Surveillance Monitoring System
 
 ## Overview
 
-An AI-powered surveillance platform developed using Python, Streamlit, YOLOv8, SQLite, and Telegram integration.
+An AI-powered surveillance platform developed using Python, YOLOv8, Streamlit, OpenCV, SQLite, and Telegram integration.
+
+The system performs real-time object detection, threat classification, vehicle verification, and instant alert generation for enhanced security monitoring.
+
+---
 
 ## Features
 
-* Real-Time Object Detection
-* Threat Classification (GREEN / ORANGE / RED)
-* Detection Logging System
-* Telegram Alert Notifications
-* Vehicle Verification Module
-* Number Plate Scanner
-* Security Dashboard
-* SQLite Database Integration
+✅ Real-Time Object Detection
 
-## Technologies Used
+✅ Threat Classification (GREEN / ORANGE / RED)
 
-* Python
-* YOLOv8
-* Streamlit
-* OpenCV
-* SQLite
-* Telegram Bot API
+✅ Telegram Alert Notifications
 
-## Project Status
+✅ Detection Logging System
 
-Final Testing Phase Completed.
+✅ SQLite Database Integration
+
+✅ Vehicle Verification Module
+
+✅ Number Plate Recognition
+
+✅ Interactive Streamlit Dashboard
+
+---
+
+## Technology Stack
+
+- Python
+- YOLOv8
+- OpenCV
+- Streamlit
+- SQLite
+- Telegram Bot API
+
+---
+
+## Project Architecture
+
+Camera Feed → YOLO Detection → Threat Classification → Database Logging → Telegram Alerts → Monitoring Dashboard
+
+---
+
+## Future Enhancements
+
+- Face Recognition
+- Cloud Deployment
+- Multi-Camera Monitoring
+- AI Behavior Analysis
+- Police Control Room Integration
+
+---
 
 ## Developer
 
 Ayush S. Jawade
+
 Diploma in Computer Engineering
